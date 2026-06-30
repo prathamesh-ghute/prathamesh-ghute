@@ -482,17 +482,16 @@ Maintenance:
 
 Recruiters spend significant time manually reviewing resumes, identifying relevant skills, comparing candidates with job requirements, and shortlisting applicants. Traditional keyword-based filtering often misses qualified candidates due to ambiguous wording or incomplete profiles.
 
----
+
 
 ## 💡 Solution
 
 ResumeMatcher.ai automates the recruitment workflow by combining AI-powered resume parsing, semantic skill extraction, ATS scoring, and candidate ranking to provide recruiters with faster and more accurate hiring decisions.
 
----
 
 ## 🏗 System Architecture
 
-```text
+
                      Resume Upload
                            │
                            ▼
@@ -516,7 +515,7 @@ ResumeMatcher.ai automates the recruitment workflow by combining AI-powered resu
                            │
                            ▼
                     MongoDB Atlas
-```
+
 
 ---
 
@@ -587,7 +586,7 @@ ResumeMatcher.ai automates the recruitment workflow by combining AI-powered resu
 
 <summary><b>📂 Folder Structure</b></summary>
 
-```text
+
 ResumeMatcher.ai
 │
 ├── client/
@@ -606,7 +605,7 @@ ResumeMatcher.ai
 │   └── config/
 │
 └── README.md
-```
+
 
 </details>
 
@@ -653,7 +652,7 @@ CampusAspect aims to help students make informed admission decisions using real 
 
 ## 🏗 Platform Modules
 
-```text
+
 Student Portal
 
       │
@@ -685,7 +684,7 @@ Admission Management
       ▼
 
 Analytics & Reports
-```
+
 
 ---
 
@@ -734,8 +733,8 @@ Analytics & Reports
 </p>
 
 ---
-````
-````markdown
+
+
 <!-- ============================ -->
 <!--     MORE FEATURED PROJECTS   -->
 <!-- ============================ -->
@@ -861,7 +860,7 @@ MessMate provides a centralized web platform where administrators, owners, and s
 
 ## 🏗 Architecture
 
-```text
+
 JavaFX Desktop
 
       │
@@ -899,7 +898,7 @@ Alert Engine
       ▼
 
 Charts & Reports
-```
+
 
 ---
 
@@ -1022,8 +1021,7 @@ Across all my projects, I aim to:
 </p>
 
 ---
-````
-````markdown
+
 <!-- ============================ -->
 <!--   EXPERIENCE & ACHIEVEMENTS  -->
 <!-- ============================ -->
@@ -1069,7 +1067,7 @@ My work emphasizes:
 
 I enjoy working across the complete software development lifecycle.
 
-```text
+
 Requirement Analysis
         │
         ▼
@@ -1092,7 +1090,7 @@ Testing
         │
         ▼
 Deployment
-```
+
 
 ---
 
@@ -1211,7 +1209,7 @@ Through academic and personal projects, I have developed the ability to:
 
 # 📈 Learning Journey
 
-```text
+
 Core Java
       │
       ▼
@@ -1243,7 +1241,7 @@ Spring Boot
       │
       ▼
 System Design
-```
+
 
 ---
 
@@ -1268,9 +1266,9 @@ I am particularly interested in:
 
 </p>
 
----
-````
-````markdown
+
+
+
 <!-- ============================ -->
 <!--     CODING & GITHUB STATS    -->
 <!-- ============================ -->
@@ -1406,7 +1404,7 @@ I am particularly interested in:
 
 # 📈 Engineering Snapshot
 
-```text
+
 Repositories         ████████████████
 Frontend             ███████████████
 Backend              █████████████
@@ -1416,7 +1414,7 @@ React                ███████████████
 Node.js              █████████████
 MongoDB              ████████████
 Learning             ██████████████████
-```
+
 
 ---
 
@@ -1427,15 +1425,14 @@ Learning             ██████████████████
 </p>
 
 ---
-````
-````markdown
+
 <!-- ============================ -->
 <!--      CURRENT FOCUS           -->
 <!-- ============================ -->
 
 # 🎯 Current Focus
 
-```yaml
+yaml
 Currently_Building:
   - CampusAspect
   - ResumeMatcher.ai
@@ -1468,7 +1465,7 @@ Open_To:
   - Open Source
   - Freelance Projects
   - Collaboration
-```
+
 
 ---
 
@@ -1488,7 +1485,6 @@ Open_To:
 
 # 📚 Learning Roadmap
 
-```text
 Java
  │
  ▼
@@ -1520,13 +1516,12 @@ Kubernetes
  │
  ▼
 Cloud
-```
+
 
 ---
 
 # ⚙️ Development Workflow
 
-```text
 Problem Identification
           │
           ▼
@@ -1552,7 +1547,6 @@ Deployment
           │
           ▼
 Continuous Improvement
-```
 
 ---
 
@@ -1644,7 +1638,6 @@ Outside of development, I enjoy:
 
 # 📈 Continuous Improvement
 
-```text
 Knowledge        ████████████████
 Coding           ████████████████
 Problem Solving  ██████████████
@@ -1653,7 +1646,7 @@ Frontend         ███████████████
 AI               ████████████
 System Design    █████████
 Communication    ███████████
-```
+
 
 ---
 
@@ -1664,8 +1657,7 @@ Communication    ███████████
 </p>
 
 ---
-````
-```markdown
+
 <!-- ============================ -->
 <!--        CONNECT & FOOTER      -->
 <!-- ============================ -->
@@ -1793,4 +1785,4 @@ Thank you for visiting my profile! I'm passionate about creating software that s
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=12,20,24,30"/>
 
 </p>
-```
+
