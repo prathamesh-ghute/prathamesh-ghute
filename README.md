@@ -1,4 +1,3 @@
-```markdown
 <!-- ============================ -->
 <!--          HEADER              -->
 <!-- ============================ -->
@@ -176,10 +175,7 @@ I enjoy transforming ideas into production-ready software by combining clean arc
 
 </p>
 
----
 
-```
-````markdown
 <!-- ============================ -->
 <!--     AI & ENGINEERING         -->
 <!-- ============================ -->
@@ -302,11 +298,11 @@ I believe every application should follow modern engineering principles.
 
 ✔ Production Deployment
 
----
+
 
 # 🏛 Software Architecture
 
-```text
+
                 Client
                    │
                    ▼
@@ -328,9 +324,7 @@ Authentication              Business Logic
                    │
                    ▼
       Google Gemini • Firebase • Cloudinary
-```
 
----
 
 # 🔒 Security Practices
 
@@ -346,11 +340,11 @@ Authentication              Business Logic
 | Secure Password Storage | Hashing |
 | Token Based Authentication | Implemented |
 
----
+
 
 # ⚡ Engineering Workflow
 
-```text
+
 Requirement Analysis
         │
         ▼
@@ -379,7 +373,7 @@ Deployment
         │
         ▼
 Continuous Improvements
-```
+
 
 ---
 
@@ -418,7 +412,7 @@ I continuously explore modern software engineering topics including:
 
 # 📈 Development Approach
 
-```yaml
+yaml
 Planning:
   - Requirement Analysis
   - System Design
@@ -444,9 +438,9 @@ Maintenance:
   - Bug Fixes
   - Feature Updates
   - Performance Improvements
-```
 
----
+
+
 
 <p align="center">
 
@@ -455,8 +449,7 @@ Maintenance:
 </p>
 
 ---
-````
-````markdown
+
 <!-- ============================ -->
 <!--     FEATURED PROJECTS        -->
 <!-- ============================ -->
